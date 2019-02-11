@@ -1,0 +1,11 @@
+h1 {
+  color: Blue;
+  align-self: center;
+}
+body {
+  background-color: skyblue
+}
+.test-box {
+  border: 2px black
+}
+@mediascreen and (min-width:470px) 
