@@ -1,11 +1,20 @@
-h1 {
-  color: Blue;
-  align-self: center;
+#highlights{
+  background-color: skyblue;
+  background-size: cover;
+  height: 300px;
 }
-body {
-  background-color: skyblue
+#highlights h1 {
+  text-align: center;
+  font-size: 30px;
 }
-.test-box {
-  border: 2px black
+#highlights h2 {
+  text-align: center;
+  font-size: 30px;
+  padding-bottom: 40px;
 }
-@mediascreen and (min-width:470px) 
+.image1{
+  float: left;
+}
+.interests {
+clear: both;
+}
