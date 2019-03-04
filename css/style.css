@@ -26,6 +26,6 @@ body {
 h1, h2, h3, h4 {
   font-family: Bree serif;
   color: dark gray !important;
-.contact {
-  color: background color: black;
+div {
+  padding-left: 10px
 }
