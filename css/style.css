@@ -22,11 +22,10 @@ body {
   padding-bottom: 20px;
   font-size: 1.1em;
   color: black;
-  background-color: green;
+  background-color: skyblue;
 h1, h2, h3, h4 {
   font-family: Bree serif;
   color: dark gray !important;
-.nav {
-  list-style-type: none;
-  margin: none;
+.contact {
+  color: background color: black;
 }
